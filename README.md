@@ -16,7 +16,6 @@ I lead a team of talented developers at [Kinza](https://github.com/kinza-dv). To
 
 - **Backend:** Laravel, Yii2
 - **Frontend:** React, Vue.js
-- **Databases:** MySQL, PostgreSQL
 - **Other:** Docker
 
 ### Get in Touch
