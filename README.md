@@ -8,9 +8,13 @@ Here is a link to my commit: [d57e8c2155322b44106aba2e6dc8e373149688c9](https://
 
 I am a developer with a primary focus on **Laravel** and **React**. I enjoy creating robust and scalable web applications.
 
+### My Achievements
+
+I won a hackathon with my team Kinza by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found [here](https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/).
+
 ### My Team
 
-I lead a team of talented developers at [Kinza](https://github.com/kinza-dv). Together, we build amazing projects and contribute to open-source.
+I lead a team of talented developers at [Kinza](https://kinza-agency.ru). Together, we build amazing projects and contribute to open-source.
 
 ### Tech Stack
 
