@@ -17,6 +17,10 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=mpa12" />
+
+<br>
+
 💻 <b>Open Source Projects I've Contributed to</b>
 <hr>
 <p align="left">
