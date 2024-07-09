@@ -1,11 +1,17 @@
-Hi there! 👋
+<div align="center"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=f7f7f7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=1500&color=3fb580&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%40it-jhack;I'm+a+Front-end+Vue.js+Developer" />
+  </picture>
+</div>
+
+<br>
 
 <br>
 
 💻 <b>Open Source Projects I've Contributed to</b>
 <hr>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/302"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
 </p>
 
 <br>
