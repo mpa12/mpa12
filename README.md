@@ -1,35 +1,48 @@
-## Hi there! 👋
+Hi there! 👋
 
-I am a contributor to the projects:
-
-- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-
-Here is a links to my commits:
-
-- [feat: Added Letter Spacing option (#302)](https://github.com/DenverCoder1/readme-typing-svg/commit/d57e8c2155322b44106aba2e6dc8e373149688c9)
-
-### About Me
-
+<br>
+💻 <b>Open Source Projects I've Contributed to</b>
+<hr>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg/pull/165"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="github-readme-streak-stats" alt="readme-typing-svg"></a>
+</p>
+<br>
+# 📜 <b>About Me</b>
+<hr>
+<p align="left">
 I am a developer with a primary focus on **Laravel** and **React**. I enjoy creating robust and scalable web applications.
-
-### My Achievements
-
-I won a hackathon with my team Kinza by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found [here](https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/).
-
-### My Team
-
-I lead a team of talented developers at [Kinza](https://kinza-agency.ru). Together, we build amazing projects and contribute to open-source.
-
-### Tech Stack
-
-- **Backend:** Laravel, Yii2
-- **Frontend:** React, Vue.js
-- **Other:** Docker
-
-### Get in Touch
-
-Feel free to connect with me on [Telegram](https://t.me/pigolitsyn_m) or check out my projects on [GitHub](https://github.com/mpa12).
-
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa12&layout=compact&theme=radical)
+</p>
+<br>
+🏆 <b>My Achievements</b>
+<hr>
+<p align="left">
+I won a hackathon with my team Kinza by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found <a href="https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/">here</a>.
+</p>
+<br>
+👥 <b>My Team</b>
+<hr>
+<p align="left">
+I lead a team of talented developers at <a href="https://kinza-agency.ru">Kinza</a>. Together, we build amazing projects and contribute to open-source.
+</p>
+<br>
+🛠️ <b>Tech Stack</b>
+<hr>
+<p align="left">
+<ul>
+  <li><b>Backend:</b> Laravel, Yii2</li>
+  <li><b>Frontend:</b> React, Vue.js</li>
+  <li><b>Other:</b> Docker</li>
+</ul>
+</p>
+<br>
+📞 <b>Get in Touch</b>
+<hr>
+<p align="left">
+Feel free to connect with me on <a href="https://t.me/pigolitsyn_m">Telegram</a> or check out my projects on <a href="https://github.com/mpa12">GitHub</a>.
+</p>
+<br>
+📊 <b>GitHub Stats</b>
+<hr>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpa12&layout=compact&theme=radical" alt="Top Langs">
+</p>
