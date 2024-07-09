@@ -2,7 +2,7 @@
 
 I am a contributor to the [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) project.
 
-Here is a link to my commit: [d57e8c2155322b44106aba2e6dc8e373149688c9](https://github.com/DenverCoder1/readme-typing-svg/commit/d57e8c2155322b44106aba2e6dc8e373149688c9)
+Here is a link to my commit: [feat: Added Letter Spacing option (#302)](https://github.com/DenverCoder1/readme-typing-svg/commit/d57e8c2155322b44106aba2e6dc8e373149688c9)
 
 ### About Me
 
