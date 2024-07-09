@@ -6,6 +6,15 @@
 
 <br>
 
+<p align="center"> 
+  <a href="https://t.me/pigolitsyn_m" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://vk.com/pigolitsyn_m" target="_blank">
+    <img src="https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+  </a>
+</p>
+
 <br>
 
 💻 <b>Open Source Projects I've Contributed to</b>
