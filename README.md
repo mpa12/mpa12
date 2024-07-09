@@ -17,10 +17,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mpa12" />
-
-<br>
-
 💻 <b>Open Source Projects I've Contributed to</b>
 <hr>
 <p align="left">
@@ -74,3 +70,7 @@ I lead a team of talented developers at <a href="https://kinza-agency.ru">Kinza<
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mpa12&title_color=3fb580&layout=compact&border_color=3fb580" />
   </picture>
 </div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mpa12" />
