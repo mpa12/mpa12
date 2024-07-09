@@ -61,14 +61,6 @@ I lead a team of talented developers at <a href="https://kinza-agency.ru">Kinza<
 
 <br>
 
-📞 <b>Get in Touch</b>
-<hr>
-<p align="left">
-Feel free to connect with me on <a href="https://t.me/pigolitsyn_m">Telegram</a> or check out my projects on <a href="https://github.com/mpa12">GitHub</a>.
-</p>
-
-<br>
-
 📊 <b>GitHub Stats</b>
 <hr>
 
