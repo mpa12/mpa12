@@ -48,7 +48,7 @@ I am a developer with a primary focus on <b>Laravel</b> and <b>React</b>. I enjo
 🏆 <b>My Achievements</b>
 <hr>
 <p align="left">
-I won a hackathon with my team Kinza by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found <a href="https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/">here</a>.
+I won a hackathon with my team <a href="https://kinza-agency.ru">Kinza</a> by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found <a href="https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/">here</a>.
 </p>
 
 <br>
