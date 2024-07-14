@@ -24,7 +24,7 @@
     <tr>
       <td>
         <div align="center">
-          <a href="[https://github.com/amandaharlin](https://github.com/DenverCoder1/readme-typing-svg)"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="readme-typing-svg"></a>
+          <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1f222e&title_color=42b883&hide_border=true&icon_color=f8d866" alt="readme-typing-svg"></a>
         </b>
       </td>
       <td>
