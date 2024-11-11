@@ -34,14 +34,6 @@
       </td>
     </tr>
   </table>
-            
-<br>
-
-📜 <b>About Me</b>
-<hr>
-<p align="left">
-I am a developer with a primary focus on <b>Laravel</b> and <b>React</b>. I enjoy creating robust and scalable web applications.
-</p>
 
 <br>
 
