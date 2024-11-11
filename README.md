@@ -67,7 +67,7 @@ I lead a team of talented developers at <a href="https://kinza-agency.ru">Kinza<
 <ul>
   <li><b>Backend:</b> Laravel, Yii2</li>
   <li><b>Frontend:</b> React, Vue.js</li>
-  <li><b>Other:</b> Docker</li>
+  <li><b>Other:</b> Docker, RabbitMQ, Apache Kafka, Redis, Memcached</li>
 </ul>
 </p>
 
