@@ -55,14 +55,6 @@ I won a hackathon with my team <a href="https://kinza-agency.ru">Kinza</a> by de
 
 <br>
 
-👥 <b>My Team</b>
-<hr>
-<p align="left">
-I lead a team of talented developers at <a href="https://kinza-agency.ru">Kinza</a>. Together, we build amazing projects and contribute to open-source.
-</p>
-
-<br>
-
 🛠️ <b>Tech Stack</b>
 <hr>
 <p align="left">
