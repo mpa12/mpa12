@@ -47,26 +47,6 @@
 
 <br>
 
-🏆 <b>My Achievements</b>
-<hr>
-<p align="left">
-I won a hackathon with my team <a href="https://kinza-agency.ru">Kinza</a> by developing a web application with augmented reality for viewing signs on walls. We chose React and A-Frame for the development. More details can be found <a href="https://kinza-agency.ru/news/kinza-победила-в-it-конкурсе/">here</a>.
-</p>
-
-<br>
-
-🛠️ <b>Tech Stack</b>
-<hr>
-<p align="left">
-<ul>
-  <li><b>Backend:</b> Laravel, Yii2</li>
-  <li><b>Frontend:</b> React, Vue.js</li>
-  <li><b>Other:</b> Docker, RabbitMQ, Apache Kafka, Redis, Memcached</li>
-</ul>
-</p>
-
-<br>
-
 📊 <b>GitHub Stats</b>
 <hr>
 
